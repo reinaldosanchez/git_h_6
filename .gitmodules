@@ -1,0 +1,3 @@
+[submodule "lodash"]
+	path = lodash
+	url = https://github.com/reinaldosanchez/git_h_6_2.git
